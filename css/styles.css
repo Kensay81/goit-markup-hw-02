@@ -107,3 +107,71 @@ ul,ol {
 .about-subtitle {}
 
 .about-text {}
+
+.team {
+    background: var(--cloud);
+}
+
+.team-head {}
+
+.team-list {}
+
+.team-item {
+    background: var(--white);
+}
+
+.team-img {}
+
+.team-subtitle {}
+
+.team-text {}
+
+.portfolio {
+    background: var(--white);
+}
+
+.portfolio-head {
+    font-size: 36px;
+    line-height: 111%;
+    letter-spacing: 0.02em;
+    text-align: center;
+    color: var(--navy-blue);
+}
+
+.portfolio-item {}
+
+.portfolio-img {}
+
+.portfolio-subtitle {
+        font-size: 20px;
+        line-height: 120%;
+        letter-spacing: 0.02em;
+        color: var(--navy-blue);
+}
+
+.portfolio-text {
+        font-size: 16px;
+        line-height: 150%;
+        letter-spacing: 0.02em;
+        color: var(--slate);
+}
+
+.foot {
+    background: var(--navy-blue);
+}
+
+.foot-logo {
+    font-size: 18px;
+    line-height: 117%;
+    letter-spacing: 0.03em;
+    text-transform: uppercase;
+    color: var(--cloud);
+}
+
+.foot-text {
+    font-size: 16px;
+    line-height: 150%;
+    letter-spacing: 0.02em;
+    text-transform: none;
+    color: var(--cloud);
+}
